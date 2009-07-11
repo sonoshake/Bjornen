@@ -366,3 +366,6 @@ body.front #content-area .node .content .field-field-page-image img{
 	#block-views-medverkande-block_1 .view-medverkande .medverkande .info p{
 	  font-size: 0.875em;
   }
+	#block-views-medverkande-block_1 .view-medverkande .medverkande{
+	  clear:both;
+  }
