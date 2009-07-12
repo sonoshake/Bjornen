@@ -300,9 +300,19 @@ body.front #content-area .node .content .field-field-page-image img{
 	background:white;
 	text-align:left;
 }
+
 #block-views-logotype-block_1 .block-inner{
-	padding:3px 0 0 40px;
+	padding:3px 40px 0 40px;
 }
+
+#block-views-logotype-block_1 table.views-view-grid td{
+	width:176px;
+}
+
+#block-views-logotype-block_1 table.views-view-grid td.col-4{
+	text-align:right;
+}
+
 
 
 
